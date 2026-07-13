@@ -1,0 +1,54 @@
+# Large binaries — keep in local assets, not in git
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Node modules — too large, install from package.json
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+**/dist/
+out/
+**/out/
+
+# Git
+.git/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files with secrets
+*.env
+**/*.env
+**/Resend*API*.txt
+**/API*Keys*.txt
+**/API*keys*.txt
+
+# Keep the structure but not the large binaries
+assets/renders/harbor-road/*.mp4
+assets/re31harborrd.zip
+assets/remotion-studio/node_modules/
+assets/remotion-studio/out/
+research/31harbor-agency-dashboard/node_modules/
+research/31harbor-agency-dashboard/dist/
+research/Elze-Property-Hamptons/remotion-studio/node_modules/
+research/Elze-Property-Hamptons/remotion-studio/out/
+research/Elze-Property-Hamptons/re31harborrd.zip
+research/sea-hampton-house/node_modules/

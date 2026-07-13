@@ -1,0 +1,5 @@
+# Remotion render output (large MP4s)
+/out/
+/renders/
+node_modules/
+*.log
