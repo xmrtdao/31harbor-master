@@ -1,11 +1,13 @@
 # 31 Harbor Road — Napeague (Lazy Point), NY
 
 > **31 Harbor Road, Napeague (Lazy Point), NY — Napeague Camping Club**
-> The Hidden Hamptons: Last authentic working-waterfront community in the Hamptons
+> Bay View Cottage in the last authentic working-waterfront community in the Hamptons
 
 ## Overview
 
-This master folder contains all research, assets, marketing materials, legal documents, financial data, timeline tracking, and communications related to the **31 Harbor Road** property listing. The property is a unique waterfront home within the Napeague Camping Club — an incorporated community (1964) with roots dating back to a 1949 campground.
+This master folder contains all research, assets, marketing materials, legal documents, financial data, timeline tracking, and communications related to the **31 Harbor Road** property. The property is a bay view home within the Napeague Camping Club — an incorporated community (1964) with roots dating back to a 1949 campground.
+
+**IMPORTANT — July 2026 Course Correction:** Per David Elze's directive, all distribution is HALTED. The property is a **Douglas Elliman exclusive** (MLS #422823, listing agent Julie Gauger, East Hampton office). All copy must be re-baselined against the Elliman listing as the single source of truth. See `31harbor_course_correction_july_2026` in the fleet shared context for full details.
 
 ## Folder Structure
 
@@ -127,7 +129,8 @@ Located in `assets/remotion-studio/`:
 - [ ] Timeline tracking (empty — ready)
 - [ ] Remotion renders complete (8 MP4s rendered)
 - [ ] Press release distribution tools ready
+- [ ] **HALTED** — All distribution paused per David's July 2026 directive. Property is a Douglas Elliman exclusive (MLS #422823). Re-baseline pending.
 
 ---
 
-*Last updated: July 13, 2026*
+*Last updated: July 23, 2026 — Applied course correction per David Elze directive*
